@@ -1,4 +1,4 @@
-# Egg Toss Clone
+# Egg Toss Game
 
 A simple egg toss platformer game implemented in [Pyret](https://pyret.org/), inspired by classic vertical jumper mechanics. The player controls an egg that jumps across moving platforms and attempts to reach the top without falling off-screen.
 
